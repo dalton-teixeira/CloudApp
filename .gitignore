@@ -1,3 +1,8 @@
+browser/
+log.html
+output.xml
+report.html
+playwright-log.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
